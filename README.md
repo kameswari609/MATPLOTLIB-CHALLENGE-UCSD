@@ -18,3 +18,6 @@ a scatter plot of mouse weight versus average tumor volume for the Capomulin tre
 
 
 the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment and  Plot tof he linear regression model is done !
+
+
+[Image description](https://github.com/kameswari609/MATPLOTLIB-CHALLENGE-UCSD/blob/master/Laboratory%20(1).jpg)
